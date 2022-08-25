@@ -1,0 +1,15 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+}
+header {
+    background-color: aqua;
+    margin: -8px;
+    padding: 5px;
+    border: 2px solid red;
+}
+nav {
+    position: relative;
+    left: 1200px;
+}
